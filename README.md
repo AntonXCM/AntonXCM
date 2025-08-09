@@ -23,6 +23,12 @@
 - Blender
 ### Other skills
 - Making UI with **Android Studio**
-- Decompiling various programs with Android Studio, Java Decompiler, Dotpeek and Ghidra
+- Decompiling various programs with Android Studio, Java Decompiler, Dotpeek, Ghidra
 - Writing music in FL Studio
 - Building, making texture packs and Forge mods in Minecraft
+- Modding using BepInEx
+- Modding TBoI
+## Favours
+- Games: Hollow Knight, Minecraft, TBoI, Pizza Tower
+- Music artists: Danny Baranowsky, Ocular Nebula, Peppsen, RENREN
+- Fonts: Alegreya family, Fira Code
