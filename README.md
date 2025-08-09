@@ -1,4 +1,5 @@
-## Hi there 👋
-My name is Anton Prykhodchenko. I live in the Ukraine.
-
-My birthday is **5**_th_ **October** **2008**y 🎂
+## My name is Prykhodchenko Anton Sergeevich ◕‿◕
+- My birthday is **5**_th_ **October** **2008** 🎂
+- My nicknames is: AntonXCM, TGianter, TestRasDvaTri, PAS
+- You can email me to [antony.prykhodchenko@gmail.com](mailto://antony.prykhodchenko@gmail.com)
+## I like to make digital art of all kinds. 
