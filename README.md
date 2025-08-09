@@ -34,4 +34,4 @@
 - Fonts: Alegreya family, Fira Code
 ## Mascot
 He is Gianter - big sea creature
-[Gianter picture](https://github.com/AntonXCM/gianter-pictures/blob/main/gianter.gif?raw=true)
+[Gianter picture](https://github.com/AntonXCM/gianter-pictures/blob/main/gianter.gif&raw=true)
