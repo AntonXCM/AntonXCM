@@ -32,3 +32,6 @@
 - Games: Hollow Knight, Minecraft, TBoI, Pizza Tower
 - Music artists: Danny Baranowsky, Ocular Nebula, Peppsen, RENREN
 - Fonts: Alegreya family, Fira Code
+## Mascot
+He is Gianter - big sea creature
+[Gianter picture]()
