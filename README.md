@@ -32,6 +32,7 @@
 - Games: Hollow Knight, Minecraft, TBoI, Pizza Tower
 - Music artists: Danny Baranowsky, Ocular Nebula, Peppsen, RENREN
 - Fonts: Alegreya family, Fira Code
+- YouTubers: Acerola, Kelin2025, Лолотрек
 ## Mascot
 He is Gianter - big sea creature
 ![Gianter picture](https://github.com/AntonXCM/gianter-pictures/blob/main/gianter.gif?raw=true)
